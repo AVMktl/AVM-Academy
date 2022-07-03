@@ -2,7 +2,7 @@
 Front-end of a responsive online learning platform website named “AVM Academy” using front-end technologies like CSS and Javascript.
 This provides a front-end interface of websites like scaler academy, great learning. It also takes comments
 
-#Preview
+# Preview
 https://avmktl.github.io/AVM-Academy/
 
 Website UI
